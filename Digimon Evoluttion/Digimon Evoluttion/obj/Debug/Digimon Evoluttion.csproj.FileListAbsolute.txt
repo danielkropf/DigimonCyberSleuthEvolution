@@ -1,1 +1,10 @@
 C:\Users\daniel.louro\Desktop\GitHub\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\bin\Debug\Digimon Evoluttion.exe.config
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\bin\Debug\Digimon Evoluttion.exe.config
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon Evoluttion.csprojResolveAssemblyReference.cache
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon_Evoluttion.Form1.resources
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon_Evoluttion.Properties.Resources.resources
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon Evoluttion.csproj.GenerateResource.Cache
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\bin\Debug\Digimon Evoluttion.exe
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\bin\Debug\Digimon Evoluttion.pdb
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon Evoluttion.exe
+C:\Users\daniel.louro\Desktop\DigimonCyberSleuthEvolution\Digimon Evoluttion\Digimon Evoluttion\obj\Debug\Digimon Evoluttion.pdb
